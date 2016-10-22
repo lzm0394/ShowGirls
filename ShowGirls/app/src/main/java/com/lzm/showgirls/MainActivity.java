@@ -23,6 +23,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * zhisdssadadsdasad
+     * @return
+     */
+
     List<String> loadUrl() {
         List<String> mList = new ArrayList<>();
         String baseUrl = "http://i.meizitu.net/2016/09/12a";
